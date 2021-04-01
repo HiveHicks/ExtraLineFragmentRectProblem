@@ -13,6 +13,7 @@
 		252CE3F82614EB3500EFCC04 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 252CE3F62614EB3500EFCC04 /* Main.storyboard */; };
 		252CE3FA2614EB3700EFCC04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 252CE3F92614EB3700EFCC04 /* Assets.xcassets */; };
 		252CE3FD2614EB3700EFCC04 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 252CE3FB2614EB3700EFCC04 /* LaunchScreen.storyboard */; };
+		252CE4062614ECF000EFCC04 /* CustomLayoutManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 252CE4052614ECF000EFCC04 /* CustomLayoutManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		252CE3F92614EB3700EFCC04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		252CE3FC2614EB3700EFCC04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		252CE3FE2614EB3700EFCC04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		252CE4052614ECF000EFCC04 /* CustomLayoutManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLayoutManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				252CE3F02614EB3500EFCC04 /* AppDelegate.swift */,
 				252CE3F22614EB3500EFCC04 /* SceneDelegate.swift */,
 				252CE3F42614EB3500EFCC04 /* ViewController.swift */,
+				252CE4052614ECF000EFCC04 /* CustomLayoutManager.swift */,
 				252CE3F62614EB3500EFCC04 /* Main.storyboard */,
 				252CE3F92614EB3700EFCC04 /* Assets.xcassets */,
 				252CE3FB2614EB3700EFCC04 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				252CE3F52614EB3500EFCC04 /* ViewController.swift in Sources */,
 				252CE3F12614EB3500EFCC04 /* AppDelegate.swift in Sources */,
 				252CE3F32614EB3500EFCC04 /* SceneDelegate.swift in Sources */,
+				252CE4062614ECF000EFCC04 /* CustomLayoutManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
